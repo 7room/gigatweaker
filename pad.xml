@@ -84,7 +84,7 @@
 			<Application_XML_File_URL>http://7room.net/gigatweaker/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>http://7room.net/gigatweaker/gt3_setup.exe</Primary_Download_URL>
+			<Primary_Download_URL>https://github.com/7room/gigatweaker/releases/download/v3.1.3.465/gt3_setup.exe</Primary_Download_URL>
 			<Secondary_Download_URL />
 			<Additional_Download_URL_1 />
 			<Additional_Download_URL_2 />
