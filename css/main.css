@@ -298,9 +298,10 @@ h3 { font-size: 14px; }
 	position: relative;
 	min-height:200px;
 	float:left;
-	margin:0 27px 10px 0;
+	margin:0 27px 12px 0;
 	background-image: url(../images/topic_bg.png);
 	background-repeat: no-repeat;
+    padding-top: 6px;
 }
 
 .white-box-tall img, .white-box-tall-right img  
@@ -382,6 +383,7 @@ h3 { font-size: 14px; }
 	margin:0 0 10px 0;
 	background-image: url(../images/topic_bg.png);
 	background-repeat: no-repeat;
+    padding-top: 6px;
 }
 .facebook-block
 {
